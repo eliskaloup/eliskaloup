@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @eliskaloup
 - 👀 I’m interested in SQL, Power BI and datasets
-- 🌱 I’m currently learning to expand my Phyton knowledge
+- 🌱 I’m currently learning to expand my SQL knowledge
